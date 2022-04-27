@@ -28,9 +28,9 @@ public class MUJ_CH1_PS {
         //System.out.println("Hello "+nm.toUpperCase()+" Have a Good Day");
 
         //Question 4
-        //double Km = 500;
-        //double miles = (Km* 0.621371);
-        //System.out.println(miles);
+        /*double Km = 500;
+        double miles = (Km* 0.621371);
+        System.out.println(miles);*/
 
         //Question 5
         System.out.println("Enter your number : ");
