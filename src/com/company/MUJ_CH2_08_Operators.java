@@ -1,6 +1,6 @@
 package com.company;
 
-public class MUJ_CH2_Operators {
+public class MUJ_CH2_08_Operators {
     public static void main(String[] args) {
 //    Arithmetic Operator's
 //        int a = 10;
@@ -28,20 +28,20 @@ public class MUJ_CH2_Operators {
 //        int per = i%j;
 //        System.out.println(per);
 //
-//        Assignment Operators
+//  Assignment Operators
 //         we can use *=,-+ and many more
 //
 //        int k = 45;
 //        k += 15;
 //        System.out.println(k);
 //
-//        Comparison Operators
+//  Comparison Operators
 //        System.out.println(60>=45);
 //
-//        Logical Operators  ||,!
+//  Logical Operators  ||,!
 //        System.out.println(60>15 && 70<65);
 //
-//        Bitwise Operators &,|
+//  Bitwise Operators &,|
 //        System.out.println(2&3);
 
 
